@@ -1,5 +1,5 @@
 #!bin/bash
 echo " your hostname:"
 hostname
-echo "testing"
-tst
+echo "testing
+echo "testing2"
